@@ -1,0 +1,2 @@
+module weekly_pay {
+}

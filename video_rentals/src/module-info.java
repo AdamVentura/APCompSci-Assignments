@@ -1,0 +1,2 @@
+module video_rentals {
+}
