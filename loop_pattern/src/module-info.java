@@ -1,0 +1,2 @@
+module loop_pattern {
+}

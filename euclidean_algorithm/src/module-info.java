@@ -1,0 +1,2 @@
+module euclidean_algorithm {
+}

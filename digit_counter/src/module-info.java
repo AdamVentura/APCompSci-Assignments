@@ -1,0 +1,2 @@
+module digit_counter {
+}

@@ -1,0 +1,2 @@
+module multiplication_table {
+}

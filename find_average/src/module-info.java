@@ -1,0 +1,2 @@
+module find_average {
+}
